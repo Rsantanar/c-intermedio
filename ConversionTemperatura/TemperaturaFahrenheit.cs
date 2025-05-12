@@ -8,6 +8,7 @@ namespace ConversionTemperatura
 {
     public class TemperaturaFahrenheit
     {
-            
+       public string valor {  get; set; }   
+        
     }
 }
