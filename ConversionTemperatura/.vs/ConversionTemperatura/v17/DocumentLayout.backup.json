@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\ConversionTemperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBFFCE-01E2-4BFB-A896-46A27DF140A6}|ConversionTemperatura.csproj|c:\\users\\rsantana\\desktop\\c#_intermedio\\conversiontemperatura\\temperaturafahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBFFCE-01E2-4BFB-A896-46A27DF140A6}|ConversionTemperatura.csproj|solutionrelative:temperaturafahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperaturaFahrenheit.cs",
+              "DocumentMoniker": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\ConversionTemperatura\\TemperaturaFahrenheit.cs",
+              "RelativeDocumentMoniker": "TemperaturaFahrenheit.cs",
+              "ToolTip": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\ConversionTemperatura\\TemperaturaFahrenheit.cs",
+              "RelativeToolTip": "TemperaturaFahrenheit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:46:18.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

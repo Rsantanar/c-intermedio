@@ -1,0 +1,15 @@
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\bin\Release\net8.0\Notificaciones.exe
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\bin\Release\net8.0\Notificaciones.deps.json
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\bin\Release\net8.0\Notificaciones.runtimeconfig.json
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\bin\Release\net8.0\Notificaciones.dll
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\bin\Release\net8.0\Notificaciones.pdb
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\Notificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\Notificaciones.AssemblyInfoInputs.cache
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\Notificaciones.AssemblyInfo.cs
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\Notificaciones.csproj.CoreCompileInputs.cache
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\Notificaciones.sourcelink.json
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\Notificaciones.dll
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\refint\Notificaciones.dll
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\Notificaciones.pdb
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\Notificaciones.genruntimeconfig.cache
+C:\Users\rsantana\Desktop\C#_intermedio\Notificaciones\obj\Release\net8.0\ref\Notificaciones.dll

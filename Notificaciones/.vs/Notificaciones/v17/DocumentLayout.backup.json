@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|c:\\users\\rsantana\\desktop\\c#_intermedio\\notificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|c:\\users\\rsantana\\desktop\\c#_intermedio\\notificaciones\\entidades\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|solutionrelative:entidades\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|c:\\users\\rsantana\\desktop\\c#_intermedio\\notificaciones\\entidades\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|solutionrelative:entidades\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|c:\\users\\rsantana\\desktop\\c#_intermedio\\notificaciones\\entidades\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|solutionrelative:entidades\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|c:\\users\\rsantana\\desktop\\c#_intermedio\\notificaciones\\entidades\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F295D2-4CD2-43AC-BA04-3D0D8496BD46}|Notificaciones.csproj|solutionrelative:entidades\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Entidades\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Entidades\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Entidades\\NotificationService.cs",
+              "RelativeToolTip": "Entidades\\NotificationService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:40:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Entidades\\LoggerService.cs",
+              "RelativeDocumentMoniker": "Entidades\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Entidades\\LoggerService.cs",
+              "RelativeToolTip": "Entidades\\LoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:39:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Entidades\\SmsService.cs",
+              "RelativeDocumentMoniker": "Entidades\\SmsService.cs",
+              "ToolTip": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Entidades\\SmsService.cs",
+              "RelativeToolTip": "Entidades\\SmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:38:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Entidades\\EmailService.cs",
+              "RelativeDocumentMoniker": "Entidades\\EmailService.cs",
+              "ToolTip": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Entidades\\EmailService.cs",
+              "RelativeToolTip": "Entidades\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:37:03.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\Notificaciones\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:26:20.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
