@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GestionNomina.Entidades.Empleado">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionNomina.Entidades.EmpleadoAsalariado">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\EmpleadoAsalariado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionNomina.Entidades.EmpleadoAsalariadoBase">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\EmpleadoAsalariadoBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionNomina.Entidades.EmpleadoAsalariadoComision">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgCAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\EmpleadoAsalariadoComision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionNomina.Entidades.EmpleadoComision">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Entidades\EmpleadoComision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionNomina.Entidades.EmpleadoPorComision">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgCAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\EmpleadoPorComision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionNomina.Entidades.EmpleadoPorHora">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAQAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\EmpleadoPorHora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,15 @@
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\bin\Debug\net8.0\GestionNomina.exe
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\bin\Debug\net8.0\GestionNomina.deps.json
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\bin\Debug\net8.0\GestionNomina.runtimeconfig.json
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\bin\Debug\net8.0\GestionNomina.dll
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\bin\Debug\net8.0\GestionNomina.pdb
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\GestionNomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\GestionNomina.AssemblyInfoInputs.cache
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\GestionNomina.AssemblyInfo.cs
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\GestionNomina.csproj.CoreCompileInputs.cache
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\GestionNomina.sourcelink.json
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\GestionNomina.dll
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\refint\GestionNomina.dll
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\GestionNomina.pdb
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\GestionNomina.genruntimeconfig.cache
+C:\Users\rsantana\Desktop\C#_intermedio\GestionNomina\obj\Debug\net8.0\ref\GestionNomina.dll

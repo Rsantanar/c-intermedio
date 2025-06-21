@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\CalcularSalario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B313A095-C559-497E-89A0-8CA3C83D9338}|CalcularSalario.csproj|c:\\users\\rsantana\\desktop\\c#_intermedio\\calcularsalario\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B313A095-C559-497E-89A0-8CA3C83D9338}|CalcularSalario.csproj|solutionrelative:payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B313A095-C559-497E-89A0-8CA3C83D9338}|CalcularSalario.csproj|c:\\users\\rsantana\\desktop\\c#_intermedio\\calcularsalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B313A095-C559-497E-89A0-8CA3C83D9338}|CalcularSalario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\CalcularSalario\\Payroll.cs",
+              "RelativeDocumentMoniker": "Payroll.cs",
+              "ToolTip": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\CalcularSalario\\Payroll.cs",
+              "RelativeToolTip": "Payroll.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:42:57.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\CalcularSalario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rsantana\\Desktop\\C#_intermedio\\CalcularSalario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:42:28.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

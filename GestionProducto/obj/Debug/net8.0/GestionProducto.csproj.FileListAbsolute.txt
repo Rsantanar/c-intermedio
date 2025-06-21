@@ -1,0 +1,15 @@
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\GestionProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\GestionProducto.AssemblyInfoInputs.cache
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\GestionProducto.AssemblyInfo.cs
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\GestionProducto.csproj.CoreCompileInputs.cache
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\GestionProducto.sourcelink.json
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\bin\Debug\net8.0\GestionProducto.exe
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\bin\Debug\net8.0\GestionProducto.deps.json
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\bin\Debug\net8.0\GestionProducto.runtimeconfig.json
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\bin\Debug\net8.0\GestionProducto.dll
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\bin\Debug\net8.0\GestionProducto.pdb
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\GestionProducto.dll
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\refint\GestionProducto.dll
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\GestionProducto.pdb
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\GestionProducto.genruntimeconfig.cache
+C:\Users\rsantana\Desktop\C#_intermedio\GestionProducto\obj\Debug\net8.0\ref\GestionProducto.dll

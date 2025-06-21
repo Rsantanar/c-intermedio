@@ -1,0 +1,15 @@
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\bin\Debug\net8.0\CalcularSalario.exe
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\bin\Debug\net8.0\CalcularSalario.deps.json
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\bin\Debug\net8.0\CalcularSalario.runtimeconfig.json
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\bin\Debug\net8.0\CalcularSalario.dll
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\bin\Debug\net8.0\CalcularSalario.pdb
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\CalcularSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\CalcularSalario.AssemblyInfoInputs.cache
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\CalcularSalario.AssemblyInfo.cs
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\CalcularSalario.csproj.CoreCompileInputs.cache
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\CalcularSalario.sourcelink.json
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\CalcularSalario.dll
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\refint\CalcularSalario.dll
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\CalcularSalario.pdb
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\CalcularSalario.genruntimeconfig.cache
+C:\Users\rsantana\Desktop\C#_intermedio\CalcularSalario\obj\Debug\net8.0\ref\CalcularSalario.dll
